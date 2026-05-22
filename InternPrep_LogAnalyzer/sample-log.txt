@@ -1,0 +1,220 @@
+2026-06-01 08:00 FAILED LOGIN User admin from 192.168.1.25
+2026-06-01 08:01 FAILED LOGIN User admin from 192.168.1.25
+2026-06-01 08:02 FAILED LOGIN User admin from 192.168.1.25
+2026-06-01 08:04 FAILED LOGIN User test from 192.168.1.30
+2026-06-01 08:05 FAILED LOGIN User test from 192.168.1.30
+2026-06-01 08:06 FAILED LOGIN User guest from 203.0.113.45
+2026-06-01 08:07 FAILED LOGIN User guest from 203.0.113.45
+2026-06-01 08:08 FAILED LOGIN User guest from 203.0.113.45
+2026-06-01 08:09 FAILED LOGIN User guest from 203.0.113.45
+2026-06-01 08:12 FAILED LOGIN User dbadmin from 45.83.12.90
+2026-06-01 08:13 FAILED LOGIN User dbadmin from 45.83.12.90
+2026-06-01 08:14 FAILED LOGIN User dbadmin from 45.83.12.90
+2026-06-01 08:17 FAILED LOGIN User dbadmin from 192.168.1.25
+2026-06-01 08:22 FAILED LOGIN User helpdesk from 10.0.0.18
+2026-06-01 08:24 ERROR Application service stopped unexpectedly
+2026-06-01 08:31 WARNING Unusual login time detected for user mgarcia
+2026-06-01 08:41 WARNING Disk space running low
+2026-06-01 08:44 INFO User dbadmin logged in successfully
+2026-06-01 08:51 ERROR Backup failed due to network timeout
+2026-06-01 08:56 WARNING Large file transfer detected from workstation
+2026-06-01 08:58 INFO System health check completed
+2026-06-01 09:08 WARNING Disk space running low
+2026-06-01 09:12 WARNING Service response time above normal threshold
+2026-06-01 09:15 FAILED LOGIN User mgarcia from 66.77.88.99
+2026-06-01 09:22 INFO Backup completed successfully
+2026-06-01 09:27 INFO VPN connection established for user test
+2026-06-01 09:30 INFO Scheduled task completed successfully
+2026-06-01 09:40 INFO User eddie logged in successfully
+2026-06-01 09:50 WARNING Unusual login time detected for user mgarcia
+2026-06-01 09:55 INFO Configuration sync completed
+2026-06-01 09:59 INFO Antivirus definitions updated
+2026-06-01 10:01 WARNING Password expiring soon for user helpdesk
+2026-06-01 10:08 INFO Scheduled task completed successfully
+2026-06-01 10:10 INFO Configuration sync completed
+2026-06-01 10:11 INFO Backup completed successfully
+2026-06-01 10:21 INFO VPN connection established for user dbadmin
+2026-06-01 10:25 INFO Antivirus definitions updated
+2026-06-01 10:30 INFO User eddie logged out
+2026-06-01 10:37 INFO Scheduled task completed successfully
+2026-06-01 10:38 WARNING Multiple failed login attempts detected
+2026-06-01 10:45 INFO Backup completed successfully
+2026-06-01 10:50 INFO Database connection restored
+2026-06-01 10:55 FAILED LOGIN User backupsvc from 192.168.1.29
+2026-06-01 11:00 INFO User helpdesk changed password successfully
+2026-06-01 11:03 ERROR Failed to apply security update
+2026-06-01 11:05 FAILED LOGIN User dbadmin from 192.168.1.30
+2026-06-01 11:06 INFO Backup completed successfully
+2026-06-01 11:08 INFO Antivirus definitions updated
+2026-06-01 11:13 INFO Database connection restored
+2026-06-01 11:23 INFO Antivirus definitions updated
+2026-06-01 11:27 INFO Database connection restored
+2026-06-01 11:31 FAILED LOGIN User jsmith from 192.168.1.30
+2026-06-01 11:34 FAILED LOGIN User helpdesk from 192.168.1.44
+2026-06-01 11:39 FAILED LOGIN User admin from 66.77.88.99
+2026-06-01 11:46 FAILED LOGIN User admin from 192.168.1.25
+2026-06-01 11:56 WARNING Password expiring soon for user helpdesk
+2026-06-01 12:03 ERROR Endpoint agent failed to start
+2026-06-01 12:08 ERROR DNS lookup failed for internal host
+2026-06-01 12:09 FAILED LOGIN User guest from 10.0.0.12
+2026-06-01 12:13 WARNING Disk space running low
+2026-06-01 12:14 WARNING Unusual login time detected for user backupsvc
+2026-06-01 12:16 FAILED LOGIN User operator from 192.168.1.29
+2026-06-01 12:20 FAILED LOGIN User operator from 192.168.1.44
+2026-06-01 12:30 INFO User operator logged out
+2026-06-01 12:31 INFO User helpdesk logged out
+2026-06-01 12:41 INFO Configuration sync completed
+2026-06-01 12:45 FAILED LOGIN User guest from 192.168.1.25
+2026-06-01 12:47 WARNING VPN session timeout warning for user guest
+2026-06-01 12:50 WARNING VPN session timeout warning for user helpdesk
+2026-06-01 12:52 FAILED LOGIN User jsmith from 192.168.1.25
+2026-06-01 12:57 INFO Scheduled task completed successfully
+2026-06-01 12:58 FAILED LOGIN User operator from 203.0.113.45
+2026-06-01 13:08 ERROR Backup failed due to network timeout
+2026-06-01 13:18 FAILED LOGIN User dbadmin from 192.168.1.30
+2026-06-01 13:25 INFO User guest changed password successfully
+2026-06-01 13:27 ERROR Backup failed due to network timeout
+2026-06-01 13:31 INFO Scheduled task completed successfully
+2026-06-01 13:34 FAILED LOGIN User backupsvc from 192.168.1.44
+2026-06-01 13:37 WARNING Service response time above normal threshold
+2026-06-01 13:47 INFO User eddie changed password successfully
+2026-06-01 13:52 INFO System health check completed
+2026-06-01 13:57 WARNING Unusual login time detected for user backupsvc
+2026-06-01 14:00 WARNING Password expiring soon for user operator
+2026-06-01 14:05 INFO Database connection restored
+2026-06-01 14:08 INFO Antivirus definitions updated
+2026-06-01 14:09 INFO Antivirus definitions updated
+2026-06-01 14:12 INFO Antivirus definitions updated
+2026-06-01 14:17 ERROR Log forwarding service unavailable
+2026-06-01 14:27 WARNING High memory usage detected
+2026-06-01 14:34 INFO Configuration sync completed
+2026-06-01 14:39 INFO User helpdesk logged out
+2026-06-01 14:40 INFO User test logged in successfully
+2026-06-01 14:50 WARNING Firewall rule change pending review
+2026-06-01 14:52 FAILED LOGIN User backupsvc from 192.168.1.25
+2026-06-01 14:55 FAILED LOGIN User jsmith from 45.83.12.90
+2026-06-01 14:56 WARNING Large file transfer detected from workstation
+2026-06-01 15:03 FAILED LOGIN User jsmith from 192.168.1.29
+2026-06-01 15:13 INFO Backup completed successfully
+2026-06-01 15:20 INFO System health check completed
+2026-06-01 15:23 FAILED LOGIN User admin from 10.0.0.18
+2026-06-01 15:33 FAILED LOGIN User operator from 192.168.1.44
+2026-06-01 15:35 INFO Antivirus definitions updated
+2026-06-01 15:45 INFO User jsmith logged in successfully
+2026-06-01 15:52 FAILED LOGIN User backupsvc from 192.168.1.52
+2026-06-01 16:02 FAILED LOGIN User mgarcia from 10.0.0.12
+2026-06-01 16:09 ERROR Unable to connect to database
+2026-06-01 16:10 INFO User mgarcia changed password successfully
+2026-06-01 16:13 FAILED LOGIN User dbadmin from 10.0.0.18
+2026-06-01 16:16 INFO User backupsvc changed password successfully
+2026-06-01 16:21 FAILED LOGIN User dbadmin from 192.168.1.44
+2026-06-01 16:24 FAILED LOGIN User guest from 192.168.1.25
+2026-06-01 16:29 INFO System health check completed
+2026-06-01 16:32 ERROR Unable to reach authentication server
+2026-06-01 16:39 INFO Antivirus definitions updated
+2026-06-01 16:46 WARNING Password expiring soon for user guest
+2026-06-01 16:51 FAILED LOGIN User guest from 45.83.12.90
+2026-06-01 16:55 INFO User test changed password successfully
+2026-06-01 16:58 WARNING Password expiring soon for user eddie
+2026-06-01 17:00 WARNING Service response time above normal threshold
+2026-06-01 17:04 ERROR File permission denied during scheduled task
+2026-06-01 17:14 INFO User test logged out
+2026-06-01 17:17 ERROR Backup failed due to network timeout
+2026-06-01 17:27 INFO Antivirus definitions updated
+2026-06-01 17:29 INFO User test logged in successfully
+2026-06-01 17:31 INFO Configuration sync completed
+2026-06-01 17:35 INFO VPN connection established for user dbadmin
+2026-06-01 17:39 WARNING Multiple failed login attempts detected
+2026-06-01 17:49 INFO System health check completed
+2026-06-01 17:51 INFO User helpdesk logged in successfully
+2026-06-01 17:56 WARNING High memory usage detected
+2026-06-01 18:06 ERROR Endpoint agent failed to start
+2026-06-01 18:09 INFO Database connection restored
+2026-06-01 18:13 INFO Backup completed successfully
+2026-06-01 18:20 INFO System health check completed
+2026-06-01 18:30 INFO System health check completed
+2026-06-01 18:33 ERROR Failed to apply security update
+2026-06-01 18:36 WARNING High memory usage detected
+2026-06-01 18:38 FAILED LOGIN User test from 66.77.88.99
+2026-06-01 18:40 FAILED LOGIN User guest from 10.0.0.12
+2026-06-01 18:45 ERROR Log forwarding service unavailable
+2026-06-01 18:49 INFO User dbadmin logged in successfully
+2026-06-01 18:59 INFO Configuration sync completed
+2026-06-01 19:00 INFO VPN connection established for user mgarcia
+2026-06-01 19:05 INFO System health check completed
+2026-06-01 19:09 FAILED LOGIN User guest from 172.16.0.9
+2026-06-01 19:10 WARNING High memory usage detected
+2026-06-01 19:20 ERROR Database query timeout exceeded
+2026-06-01 19:21 INFO User dbadmin logged in successfully
+2026-06-01 19:22 INFO Backup completed successfully
+2026-06-01 19:23 WARNING VPN session timeout warning for user backupsvc
+2026-06-01 19:26 WARNING Firewall rule change pending review
+2026-06-01 19:29 INFO Database connection restored
+2026-06-01 19:30 INFO User backupsvc logged out
+2026-06-01 19:40 INFO System health check completed
+2026-06-01 19:42 INFO System health check completed
+2026-06-01 19:44 ERROR DNS lookup failed for internal host
+2026-06-01 19:48 INFO User backupsvc changed password successfully
+2026-06-01 19:53 INFO Antivirus definitions updated
+2026-06-01 19:54 ERROR Log forwarding service unavailable
+2026-06-01 19:58 INFO User jsmith changed password successfully
+2026-06-01 20:05 INFO Antivirus definitions updated
+2026-06-01 20:15 INFO User admin logged in successfully
+2026-06-01 20:18 ERROR Database query timeout exceeded
+2026-06-01 20:25 WARNING Disk space running low
+2026-06-01 20:29 INFO Backup completed successfully
+2026-06-01 20:33 FAILED LOGIN User helpdesk from 45.83.12.90
+2026-06-01 20:36 INFO Configuration sync completed
+2026-06-01 20:40 INFO Scheduled task completed successfully
+2026-06-01 20:50 WARNING VPN session timeout warning for user admin
+2026-06-01 20:52 INFO VPN connection established for user dbadmin
+2026-06-01 20:55 FAILED LOGIN User backupsvc from 192.168.1.29
+2026-06-01 20:59 FAILED LOGIN User mgarcia from 10.0.0.12
+2026-06-01 21:02 INFO User mgarcia logged in successfully
+2026-06-01 21:07 INFO VPN connection established for user admin
+2026-06-01 21:11 ERROR File permission denied during scheduled task
+2026-06-01 21:18 INFO User operator logged out
+2026-06-01 21:21 FAILED LOGIN User jsmith from 192.168.1.52
+2026-06-01 21:28 INFO Database connection restored
+2026-06-01 21:31 WARNING Service response time above normal threshold
+2026-06-01 21:38 ERROR DNS lookup failed for internal host
+2026-06-01 21:39 INFO Database connection restored
+2026-06-01 21:49 INFO Configuration sync completed
+2026-06-01 21:52 INFO Antivirus definitions updated
+2026-06-01 21:53 INFO Scheduled task completed successfully
+2026-06-01 21:55 WARNING Password expiring soon for user helpdesk
+2026-06-01 21:56 INFO Backup completed successfully
+2026-06-01 22:03 INFO User operator logged in successfully
+2026-06-01 22:08 WARNING Service response time above normal threshold
+2026-06-01 22:10 INFO User mgarcia logged out
+2026-06-01 22:20 FAILED LOGIN User operator from 192.168.1.30
+2026-06-01 22:25 INFO Backup completed successfully
+2026-06-01 22:35 ERROR DNS lookup failed for internal host
+2026-06-01 22:36 ERROR Endpoint agent failed to start
+2026-06-01 22:46 INFO Configuration sync completed
+2026-06-01 22:50 WARNING Password expiring soon for user dbadmin
+2026-06-01 22:55 INFO User dbadmin logged out
+2026-06-01 23:05 FAILED LOGIN User jsmith from 192.168.1.52
+2026-06-01 23:12 FAILED LOGIN User jsmith from 192.168.1.29
+2026-06-01 23:17 FAILED LOGIN User eddie from 10.0.0.18
+2026-06-01 23:21 INFO User operator logged in successfully
+2026-06-01 23:23 WARNING VPN session timeout warning for user mgarcia
+2026-06-01 23:24 INFO User mgarcia changed password successfully
+2026-06-01 23:31 INFO User jsmith logged out
+2026-06-01 23:36 FAILED LOGIN User test from 192.168.1.52
+2026-06-01 23:46 FAILED LOGIN User eddie from 192.168.1.29
+2026-06-01 23:56 WARNING VPN session timeout warning for user dbadmin
+2026-06-01 23:57 ERROR Log forwarding service unavailable
+2026-06-02 00:00 ERROR Backup failed due to network timeout
+2026-06-02 00:05 FAILED LOGIN User guest from 66.77.88.99
+2026-06-02 00:08 INFO System health check completed
+2026-06-02 00:15 INFO User dbadmin logged in successfully
+2026-06-02 00:25 INFO User mgarcia logged in successfully
+2026-06-02 00:35 INFO Configuration sync completed
+2026-06-02 00:38 FAILED LOGIN User dbadmin from 10.0.0.18
+2026-06-02 00:45 INFO Scheduled task completed successfully
+2026-06-02 00:49 WARNING Service response time above normal threshold
+2026-06-02 00:53 INFO VPN connection established for user mgarcia
+2026-06-02 01:03 INFO User eddie logged out
+2026-06-02 01:06 WARNING Repeated authentication failures detected
+2026-06-02 01:16 INFO VPN connection established for user helpdesk
