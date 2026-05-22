@@ -116,7 +116,3 @@ Possible improvements include:
 - Create a simple GUI version
 - Add unit tests
 - Connect the project to real Windows Event Logs
-
-## Example Resume Bullet
-
-Built a C# log analysis tool that reads security-style log files, counts failed logins, warnings, and errors, tracks repeated failed-login IP addresses with a dictionary, flags suspicious activity, and exports a text report.
