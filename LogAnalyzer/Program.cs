@@ -5,18 +5,24 @@ class LogAnalyzer
 {
     static void Main() 
     {
-        // This is the file that is being read by the program.
-        string logPath = "C:\\Users\\Eddie Molina\\Desktop\\C# Personal Projects\\InternPrep_LogAnalyzer\\InternPrep_LogAnalyzer\\sample-log.txt";
+        // ENTER THE PATH TO YOUR LOG FILE HERE:
+        string logFilePath = "";
 
+        //ENTER THE PATH TO EXPORT YOUR REPORT HERE:
+        string reportPath = "";
+
+ 
         //Checks is the file exists before running program.
-        if (!File.Exists(logPath))
+        if (!File.Exists(logFilePath))
         {
             Console.WriteLine("Log file not found.");
+            Console.WriteLine("Press Enter to exit...");
+            Console.ReadLine();
             return;
         }
 
         //This reads all the lines from the file above and returns an array of strings, where each string is a line from the file.
-        string[] lines = File.ReadAllLines(logPath);
+        string[] lines = File.ReadAllLines(logFilePath);
 
         //This is a string that will store the report that is generated and will be used to export report to a file in the future.
         string fullReport;
@@ -100,12 +106,12 @@ class LogAnalyzer
         // The try catch block is used to handle any exceptions and let's the user know if the report was successful or not.
         try
         {
-            //This is where the report will be exported to.
-            string reportPath = "C:\\Users\\Eddie Molina\\Desktop\\C# Personal Projects\\InternPrep_LogAnalyzer\\InternPrep_LogAnalyzer\\full-report.txt";
-
             //This writes the full report to the specified path.
             File.WriteAllText(reportPath, fullReport);
             Console.WriteLine("Report has been exported successfully!");
+            Console.WriteLine("Press Enter to exit...");
+            Console.ReadLine();
+            return;
         }
         catch
         {
