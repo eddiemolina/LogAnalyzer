@@ -89,20 +89,6 @@ Example:
 
 If an IP address appears more than once, the program flags it as suspicious activity.
 
-## Why This Project Matters
-
-Security and IT teams often review logs to troubleshoot issues and detect suspicious behavior. This project is a small beginner version of that process.
-
-It demonstrates the ability to:
-
-- Work with files
-- Parse text data
-- Identify important events
-- Track repeated activity
-- Generate a readable report
-- Handle errors safely
-- Document a technical project
-
 ## Future Improvements
 
 Possible improvements include:
