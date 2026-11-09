@@ -32,6 +32,55 @@ This project was created as part of my internship preparation to practice C#, fi
 - Report generation
 - Git/GitHub project documentation
 
+## Running the Application
+
+### Prerequisites
+
+- [Visual Studio](https://visualstudio.microsoft.com/) with the .NET desktop development workload, or
+- [.NET SDK](https://dotnet.microsoft.com/download)
+
+### Option 1: Visual Studio
+
+1. Clone or download this repository.
+2. Open `LogAnalyzer.slnx` in Visual Studio.
+3. Build the solution.
+4. Click **Start** to run the application.
+
+### Option 2: .NET CLI
+
+1. Clone the repository:
+
+   ```bash
+   git clone YOUR_REPOSITORY_URL
+   cd LogAnalyzer
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd LogAnalyzer
+   ```
+
+3. Build the project:
+
+   ```bash
+   dotnet build
+   ```
+
+4. Run the application:
+
+   ```bash
+   dotnet run
+   ```
+
+### Sample Input
+
+The repository includes `sample-log.txt`, which contains example security log entries for testing.
+
+The application reads the configured log file, analyzes its contents, and generates a text report.
+
+Make sure the sample log file is available at the path expected by the application.
+
 ## Sample Log Format
 
 ```text
